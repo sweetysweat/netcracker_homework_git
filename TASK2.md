@@ -37,6 +37,7 @@ git push --set-upstream origin develop
 ```git merge develop```
 
 Получаем следующую ошибку:
+
 ![sample](img/merge_conflict.png)
 
 Для решения проблемы следует изменить последнуюю строчку в файле TASK1.md.
