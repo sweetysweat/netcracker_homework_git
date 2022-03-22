@@ -59,3 +59,13 @@ git push
 ---
 Сделано.
 
+
+### 10. Вызвать команды `diff` , `status`
+---
+Выполнение комманды `diff`:
+
+![sample](img/git_dif.png)
+
+Выполнение комманды `status`:
+
+![sample](img/git_stat.png)
