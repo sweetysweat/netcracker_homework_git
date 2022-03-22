@@ -33,4 +33,13 @@ git push --set-upstream origin develop
 
 ### 6. Выполнить `merge` из ветки `develop` в `main`. Разрешить конфликт в пользу основной ветки.
 ---
-```git checkout develop```
+```git checkout main```
+```git merge develop```
+
+Получаем следующую ошибку:
+![sample](img/merge_conflict.png)
+
+Для решения проблемы следует изменить последнуюю строчку в файле TASK1.md.
+Данная операция была выполнена при помощи встроенных в PyCharm инструментов разрешения конфликтов.
+(Изначально залил main в dev. Упс...)
+
