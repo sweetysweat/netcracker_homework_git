@@ -28,6 +28,7 @@ git remote add origin https://github.com/sweetysweat/netcracker_homework_git.git
 git push -u origin main
 ```
 Пример команд:
+
 ![sample](img/init_rep.png)
 
 ### 5. Связать локальный репозиторий с удаленным.
@@ -42,6 +43,7 @@ git push -u origin main
 ---
 Пример этого описан на рисунке выше.
 Пример команд:
+
 ```
 git add -A
 git commit -m "First Task"
